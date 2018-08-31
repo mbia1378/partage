@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">partage</string>
+
+    <!-- noms de fragment -->
+    <string name="edit_profile_fragment">Editer le profil</string>
+    <string name="edit_profile">Editer le profil</string>
+    <string name="view_post_fragment">Voir l\'article</string>
+    <string name="sign_out_fragment">Déconnexion</string>
+    <string name="profile_fragment">Profil</string>
+    <string name="view_profile_fragment">Voir le profil</string>
+    <string name="view_comments_fragment">Voir les commentaires</string>
+    <string name="ici_email">ici email</string>
+    <string name="image_web">image web</string>
+    <string name="nom">Nom</string>
+    <string name="nom_d_utilisateur">Nom d\'utilisateur</string>
+    <string name="modifier_photo">Modifier Photo</string>
+    <string name="site_web">Site Web</string>
+    <string name="cyrille_mbia">Cyrille MBIA</string>
+    <string name="image_de_profil">image de profil</string>
+    <string name="editer_profil">Editer Profil</string>
+    <string name="todo">TODO</string>
+    <string name="enregchang">enregchang</string>
+    <string name="options">Options</string>
+    <string name="retour">Retour</string>
+    <string name="description">Description</string>
+    <string name="information_priv_e">INFORMATION PRIVÉE</string>
+    <string name="email">Email</string>
+    <string name="num_ro_de_t_l_phone">Numéro de téléphone</string>
+    <string name="ivone_image">ivone_image</string>
+    <string name="cyrille">Cyrille</string>
+    <string name="j_habite_yaound">J\'habite Yaoundé</string>
+    <string name="https_cyrille_000webhostapp_com">https://cyrille.000webhostapp.com/</string>
+    <string name="param_tres_du_compte">Paramètres du compte</string>
+    <string name="tes_vous_certain_de_vouloir_vous_d_connecter">Êtes-vous certain de vouloir vous déconnecter?</string>
+    <string name="d_connexion">Déconnexion</string>
+    <string name="d_connecter">Déconnecter</string>
+    <string name="fragment_messages">Fragment Messages</string>
+    <string name="fragment_camera">Fragment Camera</string>
+    <string name="sign_out">Déconnexion</string>
+</resources>
